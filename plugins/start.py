@@ -86,8 +86,8 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("✨JOIN NOW !✨", url = "https://t.me/+kQHnUDdNs1wyYjM1"),
-                    InlineKeyboardButton("✨JOIN NOW !✨", url = "https://t.me/+kQHnUDdNs1wyYjM1")
+                    InlineKeyboardButton("✨JOIN NOW !✨", url = "https://t.me/+8iQYV1ueHYYwMzJl"),
+                    InlineKeyboardButton("✨JOIN NOW !✨", url = "https://t.me/+8iQYV1ueHYYwMzJl")
                 ]
             ]
         )
@@ -121,7 +121,7 @@ async def not_joined(client: Client, message: Message):
     buttons = [
         [
             InlineKeyboardButton(
-                "✨Join 'AI TRADING BILLIONAIRE' Channel✨",
+                "✨Join 'POWER OF OPTION' Channel✨",
                 url = client.invitelink)
         ]
     ]
